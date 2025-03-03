@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Web Development with a focus on React and Node.js<br>🎯 Goals: Become a full-stack developer<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Started coding back in 2020<br>📚 I'm currently learning Web Development with a focus on React and Node.js<br>🎯 Goals: Become a full-stack developer<br>🎲 Fun fact: ❤️🎮</p>
 
 ###
 
