@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">
+  My name is thatchai and I'm a Web Developer from Bankkok, Thailand.
+  I'm currently looking for new opportunities to apply my skills in HTML, CSS, JavaScript, and React. I'm always eager to learn and grow in the field of web development.
+</p>
 
 ###
 
@@ -10,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Web Development with a focus on React and Node.js<br>🎯 Goals: Become a full-stack developer<br>🎲 Fun fact: ...</p>
 
 ###
 
